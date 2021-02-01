@@ -2,6 +2,7 @@
     pageEncoding="ISO-8859-1"%>
 <html>
 <link href="1.css" rel="stylesheet" type="text/css">
+<script src="Checkuser.js" type="text/javascript"></script>
 <body class="align" style="background-image: linear-gradient(to right, rgba(51, 204, 204), rgba(51, 204, 204));">
 <div class="grid"> <img src="robotic_80px.png" width="80" height="80" alt=""/>
   <form action="CustomerLoginFunction" method="post" class="form login">
@@ -28,7 +29,7 @@
                    </a>
         <input type="submit" align="center" value="Login">
       </footer>
-<a href="2.html">
+<a href="ProfessionalConnectorPage.jsp">
       <input type="button" name="button" id="button" value="Back" action="2.html">
  </a>
 
